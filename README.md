@@ -9,3 +9,5 @@
 ---- https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_summarizingdata/bs704_summarizingdata6.html
 
 ---- https://bjlkeng.github.io/posts/the-empirical-distribution-function/
+
+---- https://justinbois.github.io/bootcamp/2017/lessons/l27_hackerstats.html
